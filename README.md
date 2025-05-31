@@ -60,6 +60,7 @@ Key contributions included:
 ## Collaboration
 
 This project was conducted as part of my Bachelor's studies at Berner FH and in cooperation with imito AG.
+
 ---
 
 ## Access and Contact
